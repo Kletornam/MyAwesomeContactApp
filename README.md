@@ -14,12 +14,12 @@ An awesome contact book app built with [Flutter](https://flutter.dev)
 
 ## Art
 
-<img src="C:\Users\Etornam\Desktop\Flutter\awesome_contact_upp\screenshots\figma_ui.jpg" width="100%"  height="50%"/>
+<img src="https://github.com/Kletornam/MyAwesomeContactApp/blob/main/screenshots/figma_ui.png" width="100%"  height="50%"/>
 <br>
    
 <tr>
-    <td><img align="left" src="C:\Users\Etornam\Desktop\Flutter\awesome_contact_upp\screenshots\app_ui1.jpg" width="200" height="400"/></td>
-    <td><img src="C:\Users\Etornam\Desktop\Flutter\awesome_contact_upp\screenshots\app_ui2.jpg" width="200" height="400"/></td> 
+    <td><img align="left" src="https://github.com/Kletornam/MyAwesomeContactApp/blob/main/screenshots/app_ui1.jpg" width="200" height="400"/></td>
+    <td><img src="https://github.com/Kletornam/MyAwesomeContactApp/blob/main/screenshots/app_ui2.jpg" width="200" height="400"/></td> 
 </tr>
 
 ## Getting Started
